@@ -1,5 +1,5 @@
 # Master Repository
-This repository contains a collection of *Matlab* functions that were created for the course **MECH 105** at **Colorado State University**
+This repository contains a collection of *MatLab* functions that were created for the course **MECH 105** at **Colorado State University**
 ## What are the functions?
 - SpecialMatrix.m
   - Creates an NxM matrix where any value is the sum of the value above and below the given position of the value in question
